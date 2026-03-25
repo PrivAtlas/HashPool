@@ -17,7 +17,7 @@ bdk = "= 0.30.2"
 bdk_electrum = "0.23.0"
 bitcoin = "=0.32.7"
 lightning = "=0.1.7"
-sha2 = "=0.10.9"
+sha2 = "=0.11.0"
 ppv-lite86 = "0.2.20"
 tokio = { version = "1.46.0", features = ["full"] }
 serde = { version = "1.0.219", features = ["derive"] }
